@@ -20,6 +20,16 @@ h2{
 
 .orange-highlight{
     color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+.orange-highlight2{
+    color: rgb(65, 7, 99);
+    text-align: center;
+}
+
+.center{
+    text-align: center;
 }
 
 .half-width{
@@ -106,12 +116,37 @@ footer p{
 }
 
 #one{
-    background-image: url("images/image\ 5.png") ;
+    background-image: url("images/image\ 8.png") ;
     width: 20%;
     background-repeat: no-repeat;
     text-align: center;
 }
 
+#two{
+    background-image: url("images/image\ 5.png") ;
+    width: 20%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+#three{
+    background-image: url("images/image\ 4.png") ;
+    width: 20%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
 
+.last-image{
+    text-align: center;
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 70%;
+    max-width: 60%;
+}
 
+.l-i{
+    background-color: crimson;
+    text-align:  right;
+}
 
+#last-image
