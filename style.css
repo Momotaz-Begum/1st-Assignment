@@ -141,7 +141,7 @@ footer p{
     background-repeat: no-repeat;
     text-align: center;
     width: 70%;
-    max-width: 60%;
+    
 }
 
 .l-i{
@@ -149,4 +149,9 @@ footer p{
     text-align:  right;
 }
 
-#last-image
+/* #last-image{
+    background-image: url("images/Group_33094_1.png");
+  text-align: center; 
+  background-repeat: no-repeat;
+  width: 100%;
+} */
